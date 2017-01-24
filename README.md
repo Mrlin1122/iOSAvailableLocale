@@ -1,4 +1,4 @@
-# iOSAvailableLocale
+# iOS Available Locale
 
 Following codes can dump all available locales in iOS.
 
